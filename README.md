@@ -9,7 +9,6 @@
 ✅ Uses a **pre-trained deep learning model** (VGG16)  
 ✅ Provides **confidence scores** for each prediction  
 ✅ Implements a **threshold-based prediction** (≥70%)  
-✅ Handles **tie-breaking** by choosing the next highest probability  
 ✅ **Deployable as a web application** using Flask  
 
 ---
@@ -106,4 +105,3 @@ Then, open **[http://127.0.0.1:5000/](http://127.0.0.1:5000/)** in your browser.
 ## 🔗 **GitHub Repository**  
 [**ML-Image-Classification**](https://github.com/Jayasurya28/ML_Image_Classification)  
 
-Let me know if you need any more modifications! 😊
